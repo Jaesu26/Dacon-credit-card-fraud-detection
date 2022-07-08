@@ -15,7 +15,7 @@
 
 - 하이퍼파라미터에 따른 `EllipticEnvelope` 모델의 성능
 
-|support_fraction|contamination|valid fraud count|test fraud count|valid F1-score|public F1-score|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|0.6|0.001159|29|316|0.92365|0.92769|
-|0.6|0.001194|30|322|0.91658|0.93053|
+|assume_centered|support_fraction|contamination|valid fraud count|test fraud count|valid F1-score|public F1-score|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|False|0.6|0.001159|29|316|0.92365|0.92769|
+|False|0.6|0.001194|30|322|0.91658|0.93053|
