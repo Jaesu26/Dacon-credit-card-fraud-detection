@@ -3,6 +3,8 @@
 
 `비지도 학습`을 통해 신용카드 사기 거래를 탐지하는 AI 모델을 만들자
 
+대회 링크: https://dacon.io/competitions/official/235930/overview/description
+
 ## 변수 선택
 
 정상 데이터의 분포와 사기 데이터의 분포가 비슷한 경우 Class를 구분하기 힘들 것으로 판단하여 둘의 분포가 다른 변수만 선택했다
