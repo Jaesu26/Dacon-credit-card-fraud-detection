@@ -2,9 +2,9 @@
 
 `비지도 학습`을 통해 신용카드 사기 거래를 탐지하는 AI 모델을 만들자
 
-최종 순위: [208 / 740]
-
 대회 링크: https://dacon.io/competitions/official/235930/overview/description
+
+최종 순위: [208 / 740]
 
 ## 변수 선택
 
