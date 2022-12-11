@@ -8,13 +8,13 @@
 
 ## 변수 선택
 
-정상 데이터의 분포와 사기 데이터의 분포가 비슷한 경우 Class를 구분하기 힘들 것으로 판단하여 둘의 분포가 다른 변수만 선택했다
+`-` 정상 데이터의 분포와 사기 데이터의 분포가 비슷한 경우 Class를 구분하기 힘들 것으로 판단하여 둘의 분포가 다른 변수만 선택했다
 
-선택한 변수: 'V1', 'V3', 'V4', 'V5', 'V7', 'V9', 'V10', 'V11', 'V12', 'V14', 'V16', 'V17', 'V18'  
+`-` 선택한 변수: 'V1', 'V3', 'V4', 'V5', 'V7', 'V9', 'V10', 'V11', 'V12', 'V14', 'V16', 'V17', 'V18'  
 
 ## 이상치 탐지 모델
 
-이상치 탐지 모델로 `EllipticEnvelope`, `IsolationForest`, `OneClassSVM`, `multivariate_normal`, `LocalOutlierFactor`, `AutoEncoder`를 사용해봤고 `EllipticEnvelope` 모델의 성능이 가장 좋았다
+`-` 이상치 탐지 모델로 `EllipticEnvelope`, `IsolationForest`, `OneClassSVM`, `multivariate_normal`, `LocalOutlierFactor`, `AutoEncoder`를 사용해봤고 `EllipticEnvelope` 모델의 성능이 가장 좋았다
 
 - 하이퍼파라미터에 따른 `EllipticEnvelope` 모델의 성능
 
